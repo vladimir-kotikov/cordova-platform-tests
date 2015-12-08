@@ -1,0 +1,19 @@
+{
+  "name": "cordova-platform-tests",
+  "version": "0.0.1",
+  "description": "A test runner for Cordova platforms",
+  "main": "index.js",
+  "bin": "./bin/test-cordova-platform",
+  "repo": "https://github.com/vladimir-kotikov/cordova-platform-tests.git",
+  "keywords": [
+    "cordova",
+    "platform",
+    "tests"
+  ],
+  "author": "Vladimir Kotikov",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "jasmine-node": "^1.14.5",
+    "shelljs": "^0.5.3"
+  }
+}
